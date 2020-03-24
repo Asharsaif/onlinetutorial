@@ -1,0 +1,117 @@
+
+.ashar{
+
+width: 100%;
+height: 57%;
+margin-top: 432px;
+text-decoration: none;
+
+}
+
+.kapil{
+
+width: 18%;
+height: 100%;
+background:linear-gradient(rgb(60, 190, 255),rgb(0, 92, 230));
+margin-top: 437px;
+text-align: left;
+font-size: 16px;
+line-height: 75px;
+font-family: Verdana;
+
+}
+.kapil a{
+color: white;
+text-decoration: none;
+
+}
+
+.kapil h3:hover{
+color: black;
+}
+	
+.nikhil {
+
+width: 82%;
+height:100%;
+margin-top: -364px;
+margin-right: 0px;
+margin-left: 18%;
+font-family: Lucida Sans Unicode;
+
+}
+
+.nikhil h2{
+text-align: center;	
+font-size: 26px;
+line-height: 250px;
+text-transform: uppercase;
+color:0066cc;
+}
+.nikhil h3{
+text-align: center;	
+font-size: 16px;
+margin-top: -103px;
+color:0066cc;
+}
+
+.shifa a{
+color: #0066cc;
+font-size: 20px;
+text-decoration: none;
+font-family: Lucida Sans Unicode;
+line-height: 25px;
+margin: 10%;
+
+}
+.shifa a:hover{
+color: black;
+}
+.shifa i{
+color: #0066cc;
+font-size: 25px;
+line-height: 25px;
+}
+.shifa p{
+color: #0066cc;
+font-size: 18px;
+line-height: 25px;
+margin:10px;
+
+}
+	.shifa u{
+color: #0066cc;
+font-size: 18px;
+line-height: 25px;
+margin:10px;
+
+}
+	.shifa z{
+color: #0066cc;
+font-size: 14px;
+line-height: 20px;
+margin:5px;
+
+}
+.shifa k{
+color: #0066cc;
+font-size: 14px;
+line-height: 20px;
+margin:5px;
+
+}
+.shifa n{
+color: #0066cc;
+font-size: 20px;
+line-height: 20px;
+margin:5px;
+
+}
+.nikhil as{
+color: #0066cc;
+font-size: 15px;
+text-decoration: none;
+line-height: 50px;
+text-align: center;
+margin-top:600px;
+}
